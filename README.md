@@ -1,4 +1,22 @@
-### Hi there 👋
+# 👋 Hey there! 
+Hi, I'm Jasmine! I'm a currently pursuing career path in programming. Feeling thrilled when I'm learning new things. Free free to get in touch!
+
+
+## 📚 Langues and Frameworks
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+* Node.js
+* Express
+
+## 💡 Projects
+* [Movie List](https://jasmineeds.github.io/ac-movie-list/)
+* [Card Game](https://jasmineeds.github.io/card-game/)
+
+
+## 🔗 Get in touch
+* Medium: https://medium.com/@jasmine-huang-2019
 
 <!--
 **Jasmineeds/Jasmineeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
