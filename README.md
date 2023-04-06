@@ -11,6 +11,7 @@ Hi, I'm Jasmine! I'm a currently pursuing career path in programming. Try new th
 * Express
 
 ## 💡 Projects
+* [Restaurant List](https://jasmineeds.github.io/restaurant-list/)
 * [Movie List](https://jasmineeds.github.io/ac-movie-list/)
 * [Card Game](https://jasmineeds.github.io/card-game/)
 
