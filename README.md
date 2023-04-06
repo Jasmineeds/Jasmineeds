@@ -1,5 +1,5 @@
 # 👋 Hey there! 
-Hi, I'm Jasmine! I'm a currently pursuing career path in programming. Feeling thrilled when I'm learning new things. Free free to get in touch!
+Hi, I'm Jasmine! I'm a currently pursuing career path in programming. Try new things always makes me happy. Feel free to get in touch!
 
 
 ## 📚 Langues and Frameworks
